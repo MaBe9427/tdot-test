@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/..\/schieron.github.io\/Ilmpro\/Ilmpromap.json"
+                 "value":"..\/..\/s2sly.github.io\/BFZelt\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
